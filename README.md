@@ -40,7 +40,7 @@ To get the content of this project locally you need to run this command on your 
 
  - ` cd <folder> `
 
-- ` git clone git@github.com:sheylaPozo/Capstone-Bakery.git `
+- ` git clone git@github.com:sheylaPozo/Basic-webpack.setup.git `
 
 ### 🤍 Install
 
