@@ -10,7 +10,7 @@ The Basic-webpack-setup project is been made with HTML5, CSS3 and JS, following 
 # Module 2 : "Basic webpack set up" 
 ---
 
-> This project is part of Microverse's The Portal part of the curriculum. and it's been built with Html5 and CSS3 and JS as part of Microverse 2.0 curriculum.
+> This project is part of Microverse's 2.0 curriculum. and it's been built with Html5 and CSS3 and JS as part of Microverse 2.0 curriculum.
 
 ## 🤍 Built With:
 
