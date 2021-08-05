@@ -16,9 +16,10 @@ The Basic-webpack-setup project is been made with HTML5, CSS3 and JS, following 
 
 ---
 
-- HTML5 🤍
-- CSS3  🤍
-- JS    🤍
+- HTML5   🤍
+- CSS3    🤍
+- JS      🤍
+- Webpack 🤍
 
 ---
 The main purpose of the project [Basic Webpack set up](https://sheylapozo.github.io/Basic-webpack-setup/)  is to put in practice HTML5, CSS3, and Javascript concepts to build a website with all the proffesional outview of it.
